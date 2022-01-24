@@ -15,7 +15,8 @@
                <li><a href="javascript:void(0)" class="en" data-translate="en">EN</a></li>
                <li><a href="javascript:void(0)" class="ar" data-translate="ar">AR</a></li>
              </ul>
-             
+            
+<!-- after jquery add this -->
 <script>
         var r = document.getElementById("google_translate_element"),
             e = document.querySelector('.list-style'),
